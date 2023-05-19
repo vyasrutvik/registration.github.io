@@ -1,1 +1,1 @@
-# registration.github.io
+# studentregistration.github.io
